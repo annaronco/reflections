@@ -15,3 +15,12 @@ logical change?
 
 I can choose and add to the staging area only the files that are
 relevant to my logical commit.
+
+What are some situations when branches would be helpful in keeping your
+history organized? How would branches help?
+
+Branches can be used for different purposes, e.g. developing a new feature
+or experimenting and then deleted or merged with the master branch. In the
+meantime there can be work going on on other branches separately.
+
+
