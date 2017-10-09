@@ -23,4 +23,10 @@ Branches can be used for different purposes, e.g. developing a new feature
 or experimenting and then deleted or merged with the master branch. In the
 meantime there can be work going on on other branches separately.
 
+How do the diagrams help you visualize the branch structure?
+
+Diagram shows the non-linear character of git and helps understanding that
+commits have parent and can be tracked back to the initial commit of
+a branch and that some commits (like detached head) can be not accessible.
+
 
