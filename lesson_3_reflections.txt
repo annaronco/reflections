@@ -8,3 +8,26 @@ automatically stay up-to-date with your remote repository?
 
 I want to pull the changes in a sensible time to check the changes that
 have been done to origin by others.
+
+Describe the differences between forks, clones, and branches. When would
+you use one instead of another?
+
+fork: a copy of a github repo on github - if I want to develop something new
+out of someone else's repo and not influence his code.
+clone: a clone of git repo on my computer or a copy of a local repo - if I
+want to work locally on something and then push changes to github e.g.
+when I colaborate with others.
+branch: to be able to develop separately from the master branch and keep
+the code on master working.
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+The more often I sync the origin with my local master, the less merge
+conflicts I will get. I will be working on the most recent version.
+
+How would you collaborate without using Git or GitHub? What would be easier,
+and what would be harder?
+
+It would be easier to just work on my local version and do not care about remotes.
+Sharing and merging my work with other ppl's work would be a nightmare.
