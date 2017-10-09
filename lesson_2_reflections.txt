@@ -29,4 +29,15 @@ Diagram shows the non-linear character of git and helps understanding that
 commits have parent and can be tracked back to the initial commit of
 a branch and that some commits (like detached head) can be not accessible.
 
+What is the result of merging two branches together? Why do we represent
+it in the diagram the way we do?
 
+Merging the branches creater a liner history of the commits from both
+branches and puts them chronologically.
+
+What are the pros and cons of Git’s automatic merging vs. always
+doing merges manually?
+
+Merging manually I can see the merge conflicts and decide or discuss to
+have a better version of the code in the final version (instead of
+loosing them or random git guesses).
