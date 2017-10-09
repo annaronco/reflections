@@ -1,0 +1,10 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+The repository is needed to keep and track the files hostory, as opposed
+to a normal directory.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It's an intermediate stage for the working directory and repository,
+where I can store my changes,review and modify them before commiting
+them to the repository - allows me to save a logical piece of work.
