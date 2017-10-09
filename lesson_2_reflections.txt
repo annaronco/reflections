@@ -3,8 +3,15 @@ What happens when you initialize a repository? Why do you need to do it?
 The repository is needed to keep and track the files hostory, as opposed
 to a normal directory.
 
-How is the staging area different from the working directory and the repository? What value do you think it offers?
+How is the staging area different from the working directory and the
+repository? What value do you think it offers?
 
 It's an intermediate stage for the working directory and repository,
 where I can store my changes,review and modify them before commiting
 them to the repository - allows me to save a logical piece of work.
+
+How can you use the staging area to make sure you have one commit per
+logical change?
+
+I can choose and add to the staging area only the files that are
+relevant to my logical commit.
